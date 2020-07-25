@@ -1,0 +1,77 @@
+Question 1:
+
+________ are used to translate programming language source code instructions into the appropriate machine language instructions.
+
+Answer: compilers
+
+------------------------
+
+Question 2:
+
+An Integrated Development Environment (IDE) typically includes
+
+Answer: a debugger, a text editor and a compiler
+
+--------------------
+
+Question 3:
+
+A ________ is a set of instructions that a computer executes to solve a problem.
+
+Answer: program
+
+-------------------
+
+Question 4:
+
+Syntax errors are detected by the ________.
+
+Answer: compiler
+
+-------------------
+
+Question 5:
+
+A set of precise steps for solving a problem is known as a(n):
+
+Answer: Algorithm
+
+-----------------------
+
+Question 6:
+
+The statements written by programmers are called ________.
+
+Answer: Source Code
+
+----------------------
+
+Question 7:
+
+The rules that must be followed when writing programs in specific programming languages are called
+
+Answer: syntax
+
+------------------------------------
+
+Question 8:
+
+Mistakes by the programmer that cause a program to produce incorrect results are called ________.
+
+Answer: logic errors
+
+----------------------
+
+Question 9:
+
+If you declare a variable and use it before initializing it the compiler will generate a(n) ________.
+
+Answer: Warning
+
+----------------------
+
+Question 10:
+
+The error generated when all the parts that make up a program cannot be put together because one or more are missing is called a ________.
+
+Answer: linker error
